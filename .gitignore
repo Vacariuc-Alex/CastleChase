@@ -1,0 +1,11 @@
+.vs/
+Build/
+Library/*cache/
+Library/*Cache/
+Library/Artifacts/
+Library/TempArtifacts/
+Logs/
+obj/
+Temp/
+
+*.o
